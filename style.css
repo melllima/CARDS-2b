@@ -1,1 +1,4 @@
-body{background:url(cards.jpg);}
+body{background:url(cards.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
