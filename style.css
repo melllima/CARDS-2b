@@ -11,7 +11,7 @@ body{background:url(cards.jpg);
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: rgb(245, 46, 146);
+    background-color: rgb(250, 120, 185);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33%-6rem);
@@ -20,7 +20,7 @@ body{background:url(cards.jpg);
 .cartao__conteudo{
     text-align: center;
     height: 100%;
-    background-color: rgb(238, 65, 103);
+    background-color: rgb(252, 201, 212);
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
 }
